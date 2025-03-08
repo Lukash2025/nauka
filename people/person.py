@@ -4,4 +4,4 @@ class Person:
         self.nazwisko = nazwisko
 
     def report_status(self):
-        return f'Nazywam się tak jak : {self.imie} {self.nazwisko}.'
+        return f'Nazywam się tak jak ja : {self.imie} {self.nazwisko}.'
